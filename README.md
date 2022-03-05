@@ -1,2 +1,2 @@
-# CodePath Homeowkr
+# CodePath Homework
 See branches for assignments
