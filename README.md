@@ -1,7 +1,7 @@
 # CodePath_Homework
 See branches for assignments
 
-# VirtualBox and Kali
+# VMWare and Kali
 
 **Challenges and Problems**: 
 
